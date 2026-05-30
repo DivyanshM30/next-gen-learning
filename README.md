@@ -35,3 +35,6 @@ If the Supabase connection fails (or if environment variables are missing during
 2. Run `npm install`.
 3. Rename `.env.example` to `.env.local` and add your `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY`.
 4. Run `npm run dev`.
+
+
+Divyansh Mishra
