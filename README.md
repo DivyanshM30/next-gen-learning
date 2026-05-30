@@ -36,5 +36,11 @@ If the Supabase connection fails (or if environment variables are missing during
 3. Rename `.env.example` to `.env.local` and add your `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY`.
 4. Run `npm run dev`.
 
+---
 
-Divyansh Mishra
+## Author
+
+**Divyansh Mishra**
+
+[![GitHub](https://img.shields.io/badge/GitHub-DivyanshM30-181717?style=for-the-badge&logo=github)](https://github.com/DivyanshM30)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DivyanshM30-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/DivyanshM30)
